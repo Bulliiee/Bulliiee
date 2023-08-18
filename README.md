@@ -2,11 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Bulliiee's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
-<br/><br/>
 ---
 ####  :clipboard: Once I've Used 
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
@@ -20,18 +19,13 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 
-<br/><br/>
 ---
-####  :computer: [Blog](https://bullie.tistory.com/)
-####  :baby_chick: [Solved.ac](https://solved.ac/profile/bulliiee)
-
-<br/><br/>
-
-![Bulliiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulliiee&show_icons=true&theme=radical)
+####  :computer: [Blog](https://bullie.tistory.com/) :baby_chick: [Solved.ac](https://solved.ac/profile/bulliiee)
 
 <br/>
 
-[![Solved.acbulliiee](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulliiee)](https://solved.ac/bulliiee)
+![Bulliiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulliiee&show_icons=true&theme=radical)
 
+[![Solved.acbulliiee](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulliiee)](https://solved.ac/bulliiee)
 
 </div>
