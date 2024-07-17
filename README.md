@@ -1,8 +1,7 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Bulliiee's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+# Welcome!
 
----
 ####  :clipboard: Tech Stack
 
 <br/>
@@ -40,7 +39,5 @@
 
 <br/>
 
-![Bulliiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bulliiee&hide=issues&show_icons=true)
-[![Solved.acbulliiee](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulliiee)](https://solved.ac/bulliiee)
 
 </div>
